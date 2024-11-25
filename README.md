@@ -36,7 +36,7 @@ your-project/
 
 ```bash
 git clone https://github.com/Mohabdo21/go-postgres.git
-cd your-project
+cd go-postgres
 ```
 
 2. Install dependencies:
