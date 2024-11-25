@@ -1,3 +1,6 @@
+![Go Version](https://img.shields.io/github/go-mod/go-version/Mohabdo21/go-postgres)
+![Last Commit](https://img.shields.io/github/last-commit/Mohabdo21/go-postgres)
+
 # Go PostgreSQL Products API
 
 A RESTful API service built with Go and PostgreSQL for managing product data. This project demonstrates best practices for structuring a Go application with database integration and HTTP endpoints.
