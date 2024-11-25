@@ -8,7 +8,7 @@ A RESTful API service built with Go and PostgreSQL for managing product data. Th
 ## Project Structure
 
 ```
-your-project/
+go-postgres/
 ├── cmd/
 │   └── server/
 │       └── main.go          # Application entry point
